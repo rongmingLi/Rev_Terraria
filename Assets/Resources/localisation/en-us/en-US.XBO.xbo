@@ -1,0 +1,17 @@
+{
+	"Mobile": {
+
+		"EditControllerMappings": "Controller Bindings:",
+		"ControllerDeviceTitle": "Controller:",
+		"EditControllerProfile": "Controller Hardware:",
+		"Controller": "Controller",
+		"ControllerShowControlsBannerTitle": "Controls Banner:",
+		"ControllerDisconnected": "Please reconnect your controller to continue...",
+	},
+	"GameUI": {
+		"ControllerMappingsMenu": "Controller Settings",
+	},
+	"Tutorial": {
+		"OpenSettings": "The [cm:15]Settings menu has an array of options to allow you to customize the game especially for your playstyle. If you find it hard to see the Inventory, you can Edit the Layout from the Interface tab and adjust nearly everything about the interface. You can also change all your button bindings in the Controller tab and Edit Controller Bindings.",
+	}
+}

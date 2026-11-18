@@ -1,0 +1,16 @@
+{
+	"Mobile": {
+		"EditControllerMappings": "컨트롤러 조작:",
+		"ControllerDeviceTitle": "컨트롤러:",
+		"EditControllerProfile": "컨트롤러 하드웨어:",
+		"Controller": "컨트롤러",
+		"ControllerShowControlsBannerTitle": "조작 배너:",
+		"ControllerDisconnected": "계속하려면 컨트롤러를 다시 연결하세요...",
+	},
+	"GameUI": {
+		"ControllerMappingsMenu": "컨트롤러 설정",
+	},
+	"Tutorial": {
+		"OpenSettings": "[cm:15]‘설정’ 메뉴에는 특히 플레이 스타일에 맞게 게임을 맞춤 설정할 수 있는 다양한 옵션이 있습니다. 인벤토리가 잘 보이지 않는 경우 ‘인터페이스’ 탭에서 ‘레이아웃’을 편집하고 인터페이스의 거의 모든 항목을 조정할 수 있습니다. 또한, ‘컨트롤러’ 탭 및 ‘컨트롤러 조작 편집’에서 버튼 조작을 모두 변경할 수도 있습니다.",
+	}
+}

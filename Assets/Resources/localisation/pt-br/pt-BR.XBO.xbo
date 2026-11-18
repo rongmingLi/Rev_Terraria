@@ -1,0 +1,16 @@
+{
+	"Mobile": {
+		"EditControllerMappings": "Atribuições do controle:",
+		"ControllerDeviceTitle": "Controle:",
+		"EditControllerProfile": "Hardware do controle:",
+		"Controller": "Controle",
+		"ControllerShowControlsBannerTitle": "Banner de controles:",
+		"ControllerDisconnected": "Conecte o controle para continuar...",
+	},
+	"GameUI": {
+		"ControllerMappingsMenu": "Configurações de Controle",
+	},
+	"Tutorial": {
+		"OpenSettings": "O [cm:15]Menu de Configurações possui diversas opções para você personalizar o jogo. Se você tem dificuldade para ver o Inventário, é possível Editar o Layout na aba de Interface e ajustar praticamente tudo dentro dela. Além disso, é possível alterar os comandos na aba Controle e Editar Atribuições do Controle.",
+	}
+}

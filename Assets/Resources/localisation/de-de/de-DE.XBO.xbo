@@ -1,0 +1,16 @@
+{
+	"Mobile": {
+		"EditControllerMappings": "Controller-Belegung:",
+		"ControllerDeviceTitle": "Controller:",
+		"EditControllerProfile": "Controller-Hardware:",
+		"Controller": "Controller",
+		"ControllerShowControlsBannerTitle": "Steuerungsbanner:",
+		"ControllerDisconnected": "Verbinde deinen Controller erneut, um fortzufahren …",
+	},
+	"GameUI": {
+		"ControllerMappingsMenu": "Controller-Einstellungen",
+	},
+	"Tutorial": {
+		"OpenSettings": "Im [cm:15]Einstellungsmenü findest du eine Reihe von Optionen, mit denen du das Spiel an deinen Spielstil anpassen kannst. Wenn es dir schwerfällt, das Inventar zu sehen, kannst du das Layout über den Tab „Interface“ bearbeiten und nahezu alle Aspekte des Interfaces anpassen. Außerdem kannst du unter dem Tab „Controller“ mit der Option „Controller-Belegung bearbeiten“ deine Tastenbelegungen ändern.",
+	}
+}

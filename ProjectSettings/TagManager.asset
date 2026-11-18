@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - XNA_UI
+  - CameraControls
+  - Magnifier
+  - Distortion
+  - Default2
+  - Water2
+  - XNA_UI2
+  - Default3
+  - Water3
+  - XNA_UI3
+  - Default4
+  - Water4
+  - XNA_UI4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CameraControls
+    uniqueID: 789456205
+    locked: 0

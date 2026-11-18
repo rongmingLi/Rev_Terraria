@@ -1,0 +1,16 @@
+{
+	"Mobile": {
+		"EditControllerMappings": "Configuration manette :",
+		"ControllerDeviceTitle": "Manette :",
+		"EditControllerProfile": "Équipement (manette) :",
+		"Controller": "Manette",
+		"ControllerShowControlsBannerTitle": "Bannière de commandes :",
+		"ControllerDisconnected": "Veuillez reconnecter votre manette pour continuer...",
+	},
+	"GameUI": {
+		"ControllerMappingsMenu": "Paramètres manette",
+	},
+	"Tutorial": {
+		"OpenSettings": "Le menu Paramètres [cm:15]propose de nombreuses options pour personnaliser le jeu. Si tu trouves l'inventaire trop peu lisible, tu peux par exemple modifier sa disposition dans l'onglet Interface. Tu peux également modifier la configuration de la manette dans l'onglet Manette.",
+	}
+}

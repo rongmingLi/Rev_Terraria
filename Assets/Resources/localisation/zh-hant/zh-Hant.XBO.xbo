@@ -1,0 +1,16 @@
+{
+	"Mobile": {
+		"EditControllerMappings": "控制器配置：",
+		"ControllerDeviceTitle": "控制器：",
+		"EditControllerProfile": "控制器硬體：",
+		"Controller": "控制器",
+		"ControllerShowControlsBannerTitle": "控制項橫幅：",
+		"ControllerDisconnected": "請重新連線到您的控制器以繼續...",
+	},
+	"GameUI": {
+		"ControllerMappingsMenu": "控制器設定",
+	},
+	"Tutorial": {
+		"OpenSettings": "[cm:15]設定選單中有各種選項，讓你可以針對你的遊玩方式自訂遊戲。如果不好找到物品欄，可以在介面標籤編輯版面配置，調整幾乎任何介面項目。您也可以在控制器標籤中編輯控制器指派，來變更所有按鈕指派。",
+	}
+}

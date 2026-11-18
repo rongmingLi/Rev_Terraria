@@ -1,0 +1,16 @@
+{
+	"Mobile": {
+		"EditControllerMappings": "Botones del mando:",
+		"ControllerDeviceTitle": "Mando:",
+		"EditControllerProfile": "Hardware del mando:",
+		"Controller": "Mando",
+		"ControllerShowControlsBannerTitle": "Estandarte de controles:",
+		"ControllerDisconnected": "Vuelve a conectar el mando para continuar...",
+	},
+	"GameUI": {
+		"ControllerMappingsMenu": "Ajustes del mando",
+	},
+	"Tutorial": {
+		"OpenSettings": "El [cm:15]menú de ajustes tiene una serie de opciones que te permiten personalizar el juego y adaptarlo a tu estilo. Si te cuesta ver el inventario, puedes editar la disposición desde la pestaña de interfaz y modificar prácticamente todos sus aspectos. También puedes cambiar todos los controles en la pestaña de mando y editar la configuración del mismo.",
+	}
+}

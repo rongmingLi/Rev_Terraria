@@ -1,0 +1,16 @@
+{
+	"Mobile": {
+		"EditControllerMappings": "",
+		"ControllerDeviceTitle": "",
+		"EditControllerProfile": "",
+		"Controller": "",
+		"ControllerShowControlsBannerTitle": "",
+		"ControllerDisconnected": "",
+	},
+	"GameUI": {
+		"ControllerMappingsMenu": "",
+	},
+	"Tutorial": {
+		"OpenSettings": "",
+	}
+}

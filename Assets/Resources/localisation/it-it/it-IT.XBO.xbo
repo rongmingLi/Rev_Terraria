@@ -1,0 +1,16 @@
+{
+	"Mobile": {
+		"EditControllerMappings": "Assegnazione comandi controller:",
+		"ControllerDeviceTitle": "Controller:",
+		"EditControllerProfile": "Hardware controller:",
+		"Controller": "Controller",
+		"ControllerShowControlsBannerTitle": "Banner comandi:",
+		"ControllerDisconnected": "Collega nuovamente il tuo controller per continuare...",
+	},
+	"GameUI": {
+		"ControllerMappingsMenu": "Impostazioni controller",
+	},
+	"Tutorial": {
+		"OpenSettings": "Il menu Impostazioni [cm:15]presenta una serie di opzioni che ti permettono di personalizzare il gioco in base alle tue preferenze. Se ti è difficile visualizzare l'inventario, puoi modificarne la configurazione dalla scheda Interfaccia e regolare quasi ogni aspetto dell'interfaccia. Puoi anche cambiare tutte le assegnazioni dei pulsanti nella scheda Controller e modificare l'assegnazione dei comandi del controller.",
+	}
+}

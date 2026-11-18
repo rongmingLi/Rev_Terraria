@@ -1,0 +1,16 @@
+{
+	"Mobile": {
+		"EditControllerMappings": "コントローラー設定：",
+		"ControllerDeviceTitle": "コントローラー：",
+		"EditControllerProfile": "コントローラーの設定：",
+		"Controller": "コントローラー",
+		"ControllerShowControlsBannerTitle": "そうさのバナー：",
+		"ControllerDisconnected": "コントローラーを再接続してください…",
+	},
+	"GameUI": {
+		"ControllerMappingsMenu": "コントローラー設定",
+	},
+	"Tutorial": {
+		"OpenSettings": "[cm:15]設定メニューには自分のプレイスタイルにあわせてこのゲームをカスタマイズできるオプションがいろいろ用意されている。もちものが見にくかったら、インターフェイスタブからレイアウトをへんこうしてみよう。インターフェイスのほとんどの部分をちょうせいできるよ。コントローラータブのコントローラー設定へんこうではボタン設定のへんこうもできる。",
+	}
+}
